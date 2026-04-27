@@ -7,3 +7,4 @@
 ## Overview
 This project features an interactive Tableau dashboard designed to visualize and analyze clinical factors contributing to heart disease. The goal is to provide data-driven insights into patient health trends based on key medical metrics.
 
+Dashboard link-https://public.tableau.com/views/heartdiseasedashboard_17772708191440/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
